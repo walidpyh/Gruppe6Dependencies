@@ -3,6 +3,6 @@ Credits to ProjectSloth for their amazing player groups script and TheF3nt0n for
 https://github.com/Project-Sloth
 https://www.gta5-mods.com/users/TheF3nt0n
 
-pyh-GruppeSechs Jobs Available at Tebex: https://pyhoma.tebex.io/package/6268686
+pyh-GruppeSechs Jobs Available at Tebex
 
 Fivem QBCore Gruppe6 Job
